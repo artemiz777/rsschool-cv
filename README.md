@@ -1,1 +1,1 @@
-https://artemiz777.github.io/rsschool-cv/cv
+https://artemiz777.github.io/rsschool-cv/cv.md
